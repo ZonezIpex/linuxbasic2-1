@@ -1,3 +1,3 @@
 !/bin/sh
-cd /home/username
+cd ~ubuntu
 pwd
